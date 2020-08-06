@@ -35,6 +35,12 @@ class: center, middle
 
 # Introduction
 
+# Links
+
+- [Mitchell Hashimoto on Twitter: "So, I'm going to thread here what I've been telling many new hires at HashiCorp for years. I'm sure I still have a lot to learn, but here's some tidbits from a guy who built a company with 800+ remote employees (myself included of course) and what that has taught me." / Twitter](https://twitter.com/mitchellh/status/1237540980888199170?lang=en)
+- [Jason Fried: "REMOTE Livestream Q&A with Jason Fried and David Heinemeier Hansson"](https://www.pscp.tv/w/1MYGNkzzNpXJw)
+- [REMOTE: Office Not Required | Basecamp](https://basecamp.com/books/remote)
+
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
